@@ -1,0 +1,32 @@
+
+Gospodarka i technologia
+
+Smarter Living & Working
+(urz¹dzenia typu smart home), inteligentnych budynków (smart buildings) czy infrastruktury miast (smart city). Empathic Building
+inteligentne zarz¹dzanie odpadami czy inteligentne korzystanie z energii. Startup Enevo optymizuje zbieranie odpadów poprzez monitorowanie poziomu pojemników na odpady dziêki ówczeœnie zainstalowanym czujnikom IoT. D
+
+
+Industry4.0
+BioTech
+Connected Medicine
+pierwsze cyfrowe wizyty u lekarza, które pozwala³y pacjentom na konsultacjê
+zdaln¹ rehabilitacjê, dziêki której pacjenci poudarowi mogliby leczyæ siê w domu. Korzystaj¹c z kontrolerów Kinect, pacjent stoj¹c przed ekranem (który ukazuje jego ruchy jako ruchy avatara np. w otoczeniu lasu), jest w stanie samodzielnie wykonywaæ æwiczenia
+. Fizjoterapeuta znajduj¹cy siê w zupe³nie innym miejscu, ukazuj¹c siê w okienku na ekranie, zdalnie przeprowadza pacjenta przez wszystkie æwiczenia w czasie rzeczywistym. Nie jest potrzebna myszka czy klawiatura – pacjent musi jedynie stan¹æ albo usi¹œæ przed monitorem i zacz¹æ siê ruszaæ. Rozwi¹zania oparte na telemedycynie nios¹ za sob¹ w konsekwencji inkluzywnoœæ, umo¿liwiaj¹c dostêp do opieki zdrowotnej szerszemu gronu pacjentów. Niezmiernie wa¿nym elementem rozwoju trendu Connected Medicine jest dobre œrodowisko, swojego rodzaju ekosystem, bazuj¹cy na akceleratorach. W krajach nordyckich skupiaj¹ one wokó³ siebie startupy, pozwalaj¹c na sieciowanie i wspó³pracê. Jeden z nich – HealthTech Nordic przyspiesza wzrost startupów i jednoczy pionierów w obszarze cyfrowego
+¹, aplikacje, które pozwalaj¹ na pomiar parametrów ¿yciowych s¹ odpowiedzi¹ na te potrzeby. Powstaj¹ urz¹dzenia ubieralne, które u³atwiaj¹ funkcjonowanie z chorobami przewlek³ymi. Islandzki startup Medilync, dziêki aplikacji wprowadzi³ technologiê machine learning w obszar leczenia cukrzycy. Narzêdzie Insulync oraz system w chmurze Cloudlync pozwala na zsynchronizowanie i zanalizowanie wyników w chmurze. Wiele startupów skupia siê na zdrowiu kobiet. Urinkollen pozwala kobietom, które podejrzewaj¹ u siebie zaka¿enie dróg moczowych, aby zdiagnozowano je i przepisano leki przez telefon w nieca³¹ godzinê. Startup Corti opracowa³ system bazuj¹cy na AI i technologii rozpoznawaniu mowy (speech recognition), który pozwala na wczeœniejsze wykrycie zatrzymania akcji serca, ju¿ w momencie, kiedy chora osoba dzwoni na numer alarmowy. Powstaj¹ zdywersyfikowane rozwi¹zania obejmuj¹ce m.in. platformy, aplikacje mobilne umo¿liwiaj¹ce kontakt pacjentów ze swoimi lekarzami (tak jak wczeœniej wspomniane KRY). Dziêki Via Min Doktor pacjenci mog¹ kontaktowaæ siê z lekarzem przez ca³¹ dobê za poœrednictwem czatu z dowolnego urz¹dzenia. Po szybkim rozprzestrzenianiu siê wœród szpitali i klinik w Szwecji, Min Doktor chce staæ siê wiod¹c¹ platform¹ podstawowej opieki zdrowotnej w Europie
+Immersive Experiences
+Deep Impact
+Blockchain Ecosystem
+AI For Humanity
+
+Œrodowisko i zrównowa¿ony rozwój
+
+Fossil Fuel Free
+No Trace
+Blue Farming
+
+Spo³eczeñswo & praca
+EduTech Niezmiernie istotnym czynnikiem, maj¹cym wp³yw na rozwój EduTech w Skandynawii jest dzia³aj¹cy w tym obszarze ekosystem klastrów i akceleratorów.
+Hub Ecosystem
+Work Wellbeing
+MindCare
+
